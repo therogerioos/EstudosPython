@@ -1,2 +1,2 @@
 # EstudosPython
-Arquivo de notebook do aprendizado em Python
+Arquivo de notebook utilizando o GoogleColab do aprendizado em Python
